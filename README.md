@@ -20,7 +20,7 @@ I’m a passionate developer with a love for solving problems and building meani
 
 🤔 I’m looking for help with diving deeper into distributed systems and optimizing backend performance.
 
-📫 How to reach me: Feel free to email me at xunzhou24@m.fudan.edu.cn or connect with me on [LinkedIn/Twitter/etc.].
+📫 How to reach me: Feel free to email me at xunzhou24@m.fudan.edu.cn .
 
 
 
