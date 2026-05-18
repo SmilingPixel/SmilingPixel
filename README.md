@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I’m a passionate developer with a love for solving problems and building meaningful projects, currently pursuing my Master’s degree at Fudan University.
+I’m a passionate developer pursuing my Master’s degree at Fudan University, with a love for solving problems and building meaningful projects.
 
-🔭 I’m currently working on development and testing of backend systems and APIs.
+🔭 I’m currently working on the development and testing of server-side systems, with a recent focus on AI Agent Engineering.
 
-🤔 I’m looking for help with diving deeper into distributed systems and optimizing backend performance.
+🌱 I'm actively exploring the application of AI in server-side development and diving deeper into distributed systems.
+
+🤔 I’m always looking to collaborate on distributed architectures and backend performance optimization.
 
 📫 How to reach me: Feel free to email me at xunzhou24@m.fudan.edu.cn .
 
@@ -74,7 +76,3 @@ I’m a passionate developer with a love for solving problems and building meani
 
 ![My GitHub Shooter Game](gh-space-shooter.gif)
 <!-- See https://github.com/czl9707/gh-space-shooter -->
-
-
-
-
